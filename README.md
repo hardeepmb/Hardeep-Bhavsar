@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardeep Bhavsar</h1>
 <h3 align="center">Aspiring software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuri5401&label=Profile%20views&color=0e75b6&style=flat" alt="Hardeep3105" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardeepmb&label=Profile%20views&color=0e75b6&style=flat" alt="Hardeep3105" /> </p>
 
 - 🔭 I’m currently working on **java spring boot**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hardeepmb.github.io/Hardeep_M/](https://hardeepmb.github.io/Hardeep_M/)
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/mayurinarkhede0504/profile](https://auth.geeksforgeeks.org/user/mayurinarkhede0504/profile)
+- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/hmbhavsar95/articles](https://auth.geeksforgeeks.org/user/hmbhavsar95/articles)
 
 - 📫 How to reach me **hmbhavsar95@gmail.com**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hardeep-bhavsar-572858184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayuri-n-1771341a9/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/mayuri5401" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mayuri5401" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mayurinarkhede01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mayurinarkhede01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hardeep-bhavsar-572858184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hardeep-bhavsar-572858184/" height="30" width="40" /></a>
+<a href="codechef.com/users/hardeepmb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef.com/users/hardeepmb" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hmbhavsar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hmbhavsar95" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user" height="30" width="40" /></a>
 </p>
 
